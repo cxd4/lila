@@ -41,6 +41,20 @@ object Eco {
   }
 
   val tree: Branch = List(
+    ("A00", "Benko Opening", "g3"), //1962 Pal Benko, in tournaments against Fischer and Tal
+    ("A00", "Computer Opening", "Nc3"), //1950 to present, frequent chess engine (no book) opening move
+    ("A00", "Sokolsky Opening", "b4"), //1924 and later, "Orangutan Opening" or "Sokolsky Opening"
+    ("A00", "Van 't Kruijs Opening", "e3"), //1878 Maarten van 't Kruijs
+    ("A00", "Mieses Opening", "d3"), //1910 Jacques Mieses
+    ("A00", "Saragossa Opening", "c3"), //1922 tournament requiring this opening in Zaragoza, Spain
+    ("A00", "Anderssen Opening", "a3"), //1858 reverse-Sicilian method against Morphy
+    ("A00", "Clemenz Opening", "h3"), //1873 Hermann Clemenz
+    ("A00", "Ware Opening", "a4"), //1880 Preston Ware, known to play other irregular openings
+    ("A00", "Kadas Opening", "h4"), //1977 Gabor Kadas
+    ("A00", "Durkin Opening", "Na3"), //1955 Robert T. "Na3" Durkin, his favorite signature
+    ("A00", "Amar Opening", "Nh3"), //1930s Charles Amar amateur in Paris
+    ("A00", "Spike Opening", "g4"), //1942 Henri Grob chose this opening name instead of "Grob's Attack"
+    ("A00", "Barnes Opening", "f3"), //1858 Thomas Wilson Barnes, scored 8 wins against Paul Morphy
     ("A01", "Nimzovich-Larsen Attack", "b3"),
     ("A02", "Bird's Opening", "f4"),
     ("A03", "Bird's Opening", "f4 d5"),
